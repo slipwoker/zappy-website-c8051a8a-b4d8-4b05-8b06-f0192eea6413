@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+צוות מעצבים ומפתחים מקצועי שיוצר עבורכם דפי נחיתה ממירים שמביאים לקוחות. פיתוח דף נחיתה לעסקים בישראל עם מיקוד בהמרות ותוצאות מדידות.
+
+### תיק עבודות
+https://example.com/portfolio
+צפו בפרויקטים שהשלמנו עבור עסקים מובילים. תיק עבודות עשיר של דפי נחיתה ממירים שהוכיחו את עצמם בשטח. בואו להתרשם מהיכולות שלנו.
+
+### שירותים
+https://example.com/services
+חברת פיתוח דפי נחיתה מקצועית המציעה שירות מלא: עיצוב גרפי, פיתוח Frontend ו-Backend. קבלו פתרון מקיף לדף נחיתה שמגדיל את ההמרות שלכם.
+
+### צור קשר
+https://example.com/contact
+מוכנים להתחיל? צרו קשר עם צוות המומחים שלנו לפיתוח דף נחיתה לעסקים בישראל. נשמח לשמוע על הפרויקט שלכם ולהציע פתרון מותאם אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
